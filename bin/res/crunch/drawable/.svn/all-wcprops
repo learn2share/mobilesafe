@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable
+END
+function_button_pressed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/function_button_pressed.9.png
+END
+function_button_disabled.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/function_button_disabled.9.png
+END
+function_button_normal.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/function_button_normal.9.png
+END
+jiantou1_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/jiantou1_pressed.png
+END
+button_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/button_pressed.png
+END
+button_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/button_normal.png
+END
+widget_bg_portrait.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/widget_bg_portrait.9.png
+END
+widget_bg_portrait_child_divider.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/widget_bg_portrait_child_divider.png
+END
+widget_bg_portrait_child.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MobileSafe/!svn/ver/1/bin/res/crunch/drawable/widget_bg_portrait_child.9.png
+END

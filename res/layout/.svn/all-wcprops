@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/MobileSafe/!svn/ver/1/res/layout
+END
+popup_app_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileSafe/!svn/ver/1/res/layout/popup_app_item.xml
+END
+process_widget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileSafe/!svn/ver/1/res/layout/process_widget.xml
+END
+address_show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileSafe/!svn/ver/1/res/layout/address_show.xml
+END
+setting_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileSafe/!svn/ver/1/res/layout/setting_item_view.xml
+END
+activity_app_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_app_manager.xml
+END
+list_item_taskinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileSafe/!svn/ver/1/res/layout/list_item_taskinfo.xml
+END
+activity_setting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_setting.xml
+END
+activity_setup1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_setup1.xml
+END
+activity_lost_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_lost_find.xml
+END
+activity_setup2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_setup2.xml
+END
+activity_setup3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_setup3.xml
+END
+activity_numbera_address_query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_numbera_address_query.xml
+END
+activity_setup4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_setup4.xml
+END
+dialog_setup_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileSafe/!svn/ver/1/res/layout/dialog_setup_password.xml
+END
+list_item_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileSafe/!svn/ver/1/res/layout/list_item_home.xml
+END
+activity_enter_pwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_enter_pwd.xml
+END
+contact_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileSafe/!svn/ver/1/res/layout/contact_item_view.xml
+END
+activity_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_home.xml
+END
+list_item_appinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileSafe/!svn/ver/1/res/layout/list_item_appinfo.xml
+END
+activity_splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_splash.xml
+END
+activity_select_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_select_contact.xml
+END
+activity_call_sms_safe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_call_sms_safe.xml
+END
+list_item_callsms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileSafe/!svn/ver/1/res/layout/list_item_callsms.xml
+END
+activity_task_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_task_manager.xml
+END
+activity_task_setting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_task_setting.xml
+END
+dialog_add_blacknumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MobileSafe/!svn/ver/1/res/layout/dialog_add_blacknumber.xml
+END
+setting_click_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileSafe/!svn/ver/1/res/layout/setting_click_view.xml
+END
+activity_atools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileSafe/!svn/ver/1/res/layout/activity_atools.xml
+END
+dialog_enter_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileSafe/!svn/ver/1/res/layout/dialog_enter_password.xml
+END

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="22sp"
+        android:background="#8866ff00"
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="55dip"
+        android:text="功能列表"
+        />
+    <com.sxc.mobilesafe.ui.FocusedTextView
+        android:text="最新版手机卫士，快来下载，下载送金币 最新版手机卫士，快来下载，下载送金币"
+        android:textSize="18sp"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <GridView 
+        android:verticalSpacing="10dip"
+        android:layout_marginTop="15dip"
+        android:id="@+id/list_home"
+        android:numColumns="3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        ></GridView>
+
+</LinearLayout>

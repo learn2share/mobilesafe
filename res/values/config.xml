@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="serverurl">http://115.55.39.175:8080/updateinfo.html</string>
+</resources>
